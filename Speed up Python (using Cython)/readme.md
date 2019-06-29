@@ -1,4 +1,4 @@
-## Article - Speed up CPython (using Cython)
+## Article - Speed up Python (using Cython)
 
 ### By
     Nikhil Akki
